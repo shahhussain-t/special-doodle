@@ -1,3 +1,5 @@
+"use client";
+
 import AboutSection from "@/components/AboutSection";
 import ContactSection from "@/components/ContactSection";
 import Footer from "@/components/Footer";
@@ -11,7 +13,6 @@ export default function HomePage() {
       <Header />
       <HeroSection />
       <AboutSection />
-
       <ServicesSection />
 
       <ContactSection />
