@@ -16,24 +16,14 @@ const Header: FC = () => {
             >
               About
             </Link>
-            <Link
-              href="#work"
-              className="text-gray-600 hover:text-gray-900 transition-colors"
-            >
-              Work
-            </Link>
+
             <Link
               href="#services"
               className="text-gray-600 hover:text-gray-900 transition-colors"
             >
               Services
             </Link>
-            <Link
-              href="#testimonials"
-              className="text-gray-600 hover:text-gray-900 transition-colors"
-            >
-              Testimonials
-            </Link>
+
             <Link
               href="#contact"
               className="text-gray-600 hover:text-gray-900 transition-colors"
