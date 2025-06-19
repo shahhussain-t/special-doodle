@@ -28,12 +28,12 @@ const AboutSection: FC = () => {
               About Me
             </h2>
             <p className="text-gray-600 mb-8 leading-relaxed">
-              I'm a mobile app developer with 1+ years of experience in React
-              Native and Expo. I specialize in building cross-platform apps with
-              smooth UX, scalable architecture, and real-time features. Whether
-              you need a dating app or a marketplace app, I help clients achieve
-              UI Firebase integration, or in-app payments — I'll deliver
-              production-ready code that feels native.
+              I&apos;m a mobile app developer with 1+ years of experience in
+              React Native and Expo. I specialize in building cross-platform
+              apps with smooth UX, scalable architecture, and real-time
+              features. Whether you need a dating app or a marketplace app, I
+              help clients achieve UI Firebase integration, or in-app payments —
+              I&apos;ll deliver production-ready code that feels native.
             </p>
             <div className="flex flex-wrap gap-4">
               {technologies.map((tech: Technology, index: number) => (

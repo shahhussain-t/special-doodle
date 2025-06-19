@@ -1,6 +1,6 @@
 "use client";
 
-import { FC, useState, FormEvent } from "react";
+import { FC, FormEvent, useState } from "react";
 
 interface FormData {
   name: string;

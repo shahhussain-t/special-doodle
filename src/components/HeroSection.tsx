@@ -1,4 +1,3 @@
-"use client";
 import { FC } from "react";
 
 const HeroSection: FC = () => {
@@ -42,8 +41,8 @@ const HeroSection: FC = () => {
               Crafting Seamless Mobile Apps That Just Work.
             </h1>
             <p className="text-lg text-gray-600 mb-8">
-              I'm Shah Hussain — a React Native developer helping startups and
-              businesses bring their ideas to life across iOS & Android.
+              I&apos;m Shah Hussain — a React Native developer helping startups
+              and businesses bring their ideas to life across iOS & Android.
             </p>
             <div className="flex flex-col sm:flex-row gap-4">
               <button
